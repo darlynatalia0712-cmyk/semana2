@@ -1,7 +1,10 @@
-Porque te hace trabajar más rápido y 
-con más control. Con la terminal puedes
-moverte, organizar y manejar archivos 
-del proyecto sin perder tiempo, y 
-además muchas herramientas importantes 
-se usan ahí. Es como tener acceso directo
-al “motor” del sistema.
+Es importante porque la terminal le da al desarrollador control directo, 
+rapidez y precisión sobre su proyecto.Con la terminal puedes navegar entre
+carpetas, crear, mover o eliminar archivos de forma mucho más rápida 
+que con interfaces gráficas, especialmente en proyectos grandes. 
+Además, muchas herramientas de desarrollo (como compiladores, gestores
+de paquetes o sistemas de control de versiones como Git) funcionan 
+principalmente desde la línea de comandos.En la práctica, saber usar
+la terminal permite automatizar tareas, trabajar de manera más eficiente
+y desenvolverse mejor en entornos profesionales, donde muchas veces no
+hay interfaz gráfica (por ejemplo, servidores).
